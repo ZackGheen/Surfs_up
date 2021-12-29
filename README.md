@@ -4,9 +4,9 @@
   
 #**Technology and Data Sources**
 
-  -Data Source: hawaii.sqlite
-  -Files: SurfsUp_Challlenge.ipynb , climate_analysis.ipynb
-  -Software and Packages: SQLlite, Python(pandas, ORM, SQLAlchemy), Flask, Jupyter Notebooks
+  - Data Source: hawaii.sqlite
+  - Files: SurfsUp_Challlenge.ipynb , climate_analysis.ipynb
+  - Software and Packages: SQLlite, Python(pandas, ORM, SQLAlchemy), Flask, Jupyter Notebooks
   
 #**Results**
 
