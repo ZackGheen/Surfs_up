@@ -17,5 +17,19 @@
   -As we Can see the average temperature for the month of June was about 75 degrees F, with a low of 64 degrees and a high of 85 degrees. Contrast June with the month of December    and we see that we have an average, low, and high in temperatures Fahrenheit of; 71 degress, 56 degrees, and 83 degrees respectively. 
  - What we can see from these temperature differenetials is that the average temperatures really do not fluctutate widly only about 4 degrees fahrenheit. Looking at the highs for    the months we can see an even smaller difference of only about 2 degrees fahrenheit. 
  - Although it should be noted that the low temperature differentail between the months is defintiely statistically different. if the temperatures were to stay on the lower side,    it could be inferred that it could affect surfing participation during those days. 
- -  
+ 
+ #**Summary**
+ 
+  Based on the results it semms that December temperatures vary to a larger degree than they do in June, However the variance is not enough to suggest that surfing participation   and ice cream sales would be affected enough to not justify opening up a surf shop on the island. The temperature differnetial is only a 4 degree differnece. But before        making a   final decision i would suggest looking at the precipitation averages for these months:
+  
+  The precipitation differences for June and December:
+  ![Screenshot 2021-12-29 Summary_prec](https://user-images.githubusercontent.com/93295751/147842732-e1f31126-ffdb-4ae8-a29e-7ac3f6be4e58.png)
+
+![Screenshot 2021-12-29 June_prec](https://user-images.githubusercontent.com/93295751/147842735-8e9e4812-5b3f-4ec5-8659-9f2b1f096fda.png)
+
+![Screenshot 2021-12-29 Dec_prec](https://user-images.githubusercontent.com/93295751/147842740-609e0ef4-4004-413d-b775-2c60740c8e7d.png)
+
+
+
+  
    
