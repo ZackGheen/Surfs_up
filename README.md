@@ -29,7 +29,7 @@
 
 ![Screenshot 2021-12-29 Dec_prec](https://user-images.githubusercontent.com/93295751/147842740-609e0ef4-4004-413d-b775-2c60740c8e7d.png)
 
-
+What we can see when looking at these tables is that the standard deviation of rainfall measured in inches, is about .11 differential with December having more rainfall. The mean rainfall differnece is about 8/100ths(.08) of an inch more for December. the max recorded precipitation is nearly 2 inches more in December however which is a very large difference. All in all, with the relatively steady temperature differentials, and the minor variance in precipitation for the months of June and December I would say that precipitation would not be likely to make a big impact on surfing participation except for perhaps in outlying circumstances. 
 
   
    
